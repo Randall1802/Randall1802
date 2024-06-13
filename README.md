@@ -68,7 +68,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Randall1802/Randall1802/output/snake.svg" alt="Snake animation" />
 
